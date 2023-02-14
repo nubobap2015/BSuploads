@@ -1,0 +1,30 @@
+{
+  "name": "bsuploads",
+  "version": "1.0.0",
+  "description": "Parcing and uploads bank statements to filesistem folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nubobap2015/BSuploads.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "analize",
+    "parcing",
+    "bank",
+    "statements"
+  ],
+  "author": "nuBoBap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nubobap2015/BSuploads/issues"
+  },
+  "homepage": "https://github.com/nubobap2015/BSuploads#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
